@@ -1,5 +1,7 @@
 
 # sa-id-gen
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/sa-id-gen.svg)](https://greenkeeper.io/)
 [![package version](https://img.shields.io/npm/v/sa-id-gen.svg?style=flat-square)](https://npmjs.org/package/sa-id-gen)
 [![package downloads](https://img.shields.io/npm/dm/sa-id-gen.svg?style=flat-square)](https://npmjs.org/package/sa-id-gen)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
