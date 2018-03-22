@@ -16,6 +16,7 @@
     "mod10-check-digit": "^1.0.0"
   },
   "devDependencies": {
+    "clipboardy": "^1.2.3",
     "jest": "^22.4.2",
     "standard": "^11.0.1",
     "valid-south-african-id": "^1.0.0"

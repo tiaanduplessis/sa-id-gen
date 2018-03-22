@@ -51,6 +51,12 @@ Using the CLI:
 
 ```sh
 $ sa-id-gen
+
+New ID generated:
+
+🆔   9309165206083
+
+The ID has been copied to your clipboard. 📋
 ```
 
 Can also be configured
