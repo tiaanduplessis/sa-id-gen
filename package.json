@@ -1,6 +1,6 @@
 {
   "name": "sa-id-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate fake South African ID",
   "main": "index.js",
   "repository": "https://github.com/tiaanduplessis/sa-id-gen",
