@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 const validSouthAfricanId = require('valid-south-african-id')
 
 const generateID = require('./index')

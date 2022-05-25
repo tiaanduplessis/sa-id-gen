@@ -6,16 +6,17 @@
 [![package license](https://img.shields.io/npm/l/sa-id-gen.svg?style=flat-square)](https://npmjs.org/package/sa-id-gen)
 [![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> Generate fake South African ID
+Generate fake South African ID
 
 ## Table of Contents
 
-- [About](#about)
-- [Install](#install)
-- [Usage](#usage)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
-- [License](#License)
+- [sa-id-gen](#sa-id-gen)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## About
 
@@ -23,12 +24,21 @@ Generates a random fake South African. Can be configured when needed. Based on [
 
 ## Install
 
-This project uses [node](https://nodejs.org) and [npm](https://www.npmjs.com). 
+Install the package locally within you project folder with your package manager:
 
+With `npm`:
 ```sh
-$ npm installl sa-id-gen
-$ # OR
-$ yarn add sa-id-gen
+npm install sa-id-gen
+```
+
+With `yarn`:
+```sh
+yarn add sa-id-gen
+```
+
+With `pnpm`:
+```sh
+pnpm add sa-id-gen
 ```
 
 ## Usage
